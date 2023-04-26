@@ -41,8 +41,9 @@ cd Pkg-Installer-
 python pkg.py
 ```
 ### Username / Password
-* [Link](https://chat.whatsapp.com/E9Vp4ANMtTLLF9XMldMiWl)
-<div align="center">
+```
+Username: davil
+Password: shohid
 
 <b> TOOL PASS = FB PEGE </b><br><br>
 
