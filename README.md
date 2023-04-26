@@ -37,7 +37,7 @@ apt install python -y ; apt install git ; git clone https://github.com/davil-sho
 ### FOR RUN :
 
 ```
-cd Pkg-Installer-
+cd Pkg-Installer
 python pkg.py
 ```
 ### Username / Password
