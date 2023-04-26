@@ -31,7 +31,7 @@ git clone https://github.com/davil-shohid/Pkg-Installer.git
 ### One Click Installation :
 
 ```
-apt install python -y ; apt install git ; git clone https://github.com/davil-shohid/Pkg-Installer-.git
+apt install python -y ; apt install git ; git clone https://github.com/davil-shohid/Pkg-Installer.git
 ```
 
 ### FOR RUN :
