@@ -25,6 +25,7 @@
 ```
 apt install python -y
 apt install git -y
+pip install omero-marshal 
 git clone https://github.com/davil-shohid/Pkg-Installer.git
 ```
 
