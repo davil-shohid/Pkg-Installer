@@ -4,7 +4,7 @@
 
 <h2 align="center"> TERMUX PKG </h2>
 
-<h3>VERSION : V1.0.</h3>
+<h3>VERSION : V1.1.</h3>
 
 **A SIMPLE TOOL KIT FOR MOBILE LAG WITH TERMINAL.**
 
@@ -40,11 +40,11 @@ apt install python -y ; apt install git ; git clone https://github.com/davil-sho
 cd Pkg-Installer
 python pkg.py
 ```
-### Username / Password
-```
-Username: davil
-Password: shohid
-```
+
+
+
+
+
 <b> TOOL PASS = FB PEGE </b><br><br>
 
 <a href="https://github.com/davil-shohid/">
