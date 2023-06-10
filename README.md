@@ -4,7 +4,7 @@
 
 <h2 align="center"> TERMUX PKG </h2>
 
-<h3>VERSION : V1.1.</h3>
+<h3>VERSION : V1.1</h3>
 
 **A SIMPLE TOOL KIT FOR MOBILE LAG WITH TERMINAL.**
 
